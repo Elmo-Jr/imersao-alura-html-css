@@ -1,0 +1,20 @@
+.wrapper-banner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: pointer;
+    transition: 100ms transform cubic-bezier(.42,0,.6,2.06);
+}
+
+.wrapper-banner:hover{
+    transform: scale(1.1);
+}
+
+.wrapper-banner .main-banner{
+    margin-bottom: 10px;
+}
+
+.wrapper-banner .main-caption {
+    width: 188px;
+    text-align: center;
+}

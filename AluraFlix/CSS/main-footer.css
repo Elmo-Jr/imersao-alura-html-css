@@ -1,0 +1,28 @@
+.main-footer{
+    background-color: var(--color-second);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 45px;
+    padding-top: 45px;
+}
+
+.main-footer .imersao{ 
+margin-bottom: 20px;
+color: var(--color-withe);
+font-size: 40px;
+}
+
+.main-footer .insta{
+    color: var(--color-withe);
+    font-size: 30px;
+}
+
+a {
+    text-decoration: none;
+    transition: 100ms transform cubic-bezier(.42,0,.6,2.06);
+}
+
+a:hover{
+        transform: scale(1.08);
+}

@@ -1,0 +1,15 @@
+.main-header{
+    background-color: var(--color-first);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 35px;
+} 
+
+.main-header .title{
+    color: var(--color-withe);
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    font-size: 80px;
+    margin-top: 25px;
+    margin-bottom: 35px;
+}

@@ -1,0 +1,16 @@
+:root{
+    --color-black: #000;
+    --color-withe: #FFF;
+    
+    --color-darker: #2C3E50;
+
+    --color-first: #F39C12;
+    --color-second: #3498DB;
+    --color-third: #D6D6D6;
+    
+}
+
+body { 
+    font-family: 'Fredoka One', cursive;
+    background-color: var(--color-darker);
+}

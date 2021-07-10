@@ -1,0 +1,6 @@
+.main-caption{
+    color: var(--color-withe);
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+    font-size: 19px;
+    line-height: 24px;
+}
